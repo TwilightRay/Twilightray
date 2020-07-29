@@ -2,14 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 @font-face {
 font-family: "Dosis-Bold";
-src: url("assets/fonts/Dosis-Bold.ttf") format("truetype");
+src: url("../fonts/Dosis-Bold.ttf") format("truetype");
 font-style: normal;
 font-weight: normal;
 }
 
 body{
   margin: 0 auto;
-  font-family: 'Dosis-Bold', arial;
+  font-family: 'Dosis Bold', arial;
   color: #2f1946;
 }
 
