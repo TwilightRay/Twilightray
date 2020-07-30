@@ -389,6 +389,7 @@ background-color: #e22028;
 .menu-nav__item{
   margin-right: 58px;
   font-size: 1em;
+  color: #2f1946;
 }
 
 .menu-nav__item:last-child{
