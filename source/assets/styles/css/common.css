@@ -67,7 +67,8 @@ p, h1, h2, h3, h4{
   height: 17.31em;
   width: 28.25em;
   max-width: 100%;
-  margin-top: 15.53398%;
+  margin-top: 11.53398%;
+  margin-bottom: 3em;
 }
 
 .header__background{
@@ -89,6 +90,7 @@ p, h1, h2, h3, h4{
 
 .header__header {
   font-size: 5em;
+  margin-bottom: 3.5rem;
 }
 
 .header__get-started-btn{
