@@ -1,13 +1,13 @@
 @font-face {
 font-family: "Dosis-Bold";
-src: url("../fonts/Dosis-Bold.ttf") format("truetype");
+src: url("../fonts/Dosis-Bold/Dosis-Bold.ttf") format("truetype");
 font-style: normal;
 font-weight: normal;
 }
 
 body{
   margin: 0 auto;
-  font-family: 'Dosis Bold', arial;
+  font-family: 'Dosis-Bold', arial;
   color: #2f1946;
 }
 
@@ -73,8 +73,8 @@ p, h1, h2, h3, h4{
 .header__background{
   background-image: url("../images/smile-people.png");
   background-size: cover;
-  max-height: 78.63em;
-  height: 78.63em;
+  max-height: 64.38em;
+  height: 64.38em;
   position: relative;
   background-position: 100% top;
   background-size: 100%;
@@ -301,7 +301,7 @@ background-color: #e22028;
 
 .form-sign-up__input::placeholder {
   color: #81398b;
-  font-family: 'Dosis Bold', arial;
+  font-family: 'Dosis-Bold', arial;
 }
 
 .get-started{
